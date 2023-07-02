@@ -8,3 +8,8 @@ source = "github"
 github = "darold/sysusage"
 use_max_tag = true
 prefix = "v"
+
+[xmlcopyeditor]
+source = "regex"
+regex = "files/xmlcopyeditor-linux/([\\d.]+\\d{1})/"
+url = "https://sourceforge.net/projects/xml-copy-editor/files/xmlcopyeditor-linux/"
