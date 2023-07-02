@@ -1,0 +1,10 @@
+[__config__]
+oldver = "old_ver.json"
+newver = "new_ver.json"
+max_concurrency = 8
+
+[sysusage]
+source = "github"
+github = "darold/sysusage"
+use_max_tag = true
+prefix = "v"
